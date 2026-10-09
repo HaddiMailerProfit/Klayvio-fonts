@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FONTSPRING DEMO - Quiche Sans';
+    src: url('FONTSPRINGDEMO-QuicheSansMediumRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-QuicheSansMediumRegular.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
